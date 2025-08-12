@@ -1,0 +1,54 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="24" height="24" fill="#1E1E1E"/>
+<g id="zeeta" clip-path="url(#clip0_0_1)">
+<g id="Hero" clip-path="url(#clip1_0_1)">
+<rect width="1440" height="1024" transform="translate(-1215 -49)" fill="url(#paint0_radial_0_1)"/>
+<rect width="1440" height="1024" transform="translate(-1215 -49)" fill="url(#paint1_linear_0_1)" fill-opacity="0.16"/>
+<g id="Navbar">
+<g id="Menu">
+<g id="Button" filter="url(#filter1_d_0_1)">
+<rect x="-149" y="-12" width="185" height="48" rx="24" fill="#363636" shape-rendering="crispEdges"/>
+<rect x="-149" y="-12" width="185" height="48" rx="24" stroke="white" shape-rendering="crispEdges"/>
+<g id="iconoir:arrow-up-right">
+<rect x="-8" y="-8" width="40" height="40" rx="20" fill="white"/>
+<g id="system/arrow-right-up-line">
+<rect width="24" height="24" fill="white"/>
+<g id="Group">
+<path id="Vector" d="M16.0039 9.414L7.39691 18.021L5.98291 16.607L14.5889 8H7.00391V6H18.0039V17H16.0039V9.414Z" fill="#363636"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter1_d_0_1" x="-159.5" y="-22.5" width="206" height="69" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_1"/>
+<feBlend mode="normal" in="BackgroundImageFix" in2="effect1_dropShadow_0_1" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+</filter>
+<radialGradient id="paint0_radial_0_1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(720 -42) rotate(90) scale(1104 1552.5)">
+<stop stop-color="#391DE8"/>
+<stop offset="0.42224" stop-color="#3B1FE7" stop-opacity="0.93"/>
+<stop offset="1" stop-color="white"/>
+</radialGradient>
+<linearGradient id="paint1_linear_0_1" x1="721.756" y1="-3.68939e-07" x2="718.244" y2="1024" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="white"/>
+</linearGradient>
+<clipPath id="clip0_0_1">
+<rect width="1440" height="2124" fill="white" transform="translate(-1215 -49)"/>
+</clipPath>
+<clipPath id="clip1_0_1">
+<rect width="1440" height="1024" fill="white" transform="translate(-1215 -49)"/>
+</clipPath>
+</defs>
+</svg>
