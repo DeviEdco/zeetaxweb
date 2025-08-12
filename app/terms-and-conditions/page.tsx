@@ -7,7 +7,7 @@ export default function Page() {
       <div className="w-full max-w-[23.625rem] md:max-w-[41.9375rem] lg:max-w-[62.875rem] rounded-md bg-white shadow-[-4px_8px_8px_rgba(0,0,0,0.16)] backdrop-blur-[2px] p-5 md:p-8 lg:p-10">
         <h1 className="text-black font-general-sans font-medium text-2xl md:text-3xl tracking-[-0.06rem] mb-4">Terms & Conditions</h1>
         <p className="text-black/70 font-manrope text-sm md:text-base leading-[1.75] mb-6">
-          These Terms & Conditions ("Terms") govern your use of ZeetaX Publication services, website/app, and products. By accessing our services, you agree to these Terms.
+          These Terms & Conditions (&quot;Terms&quot;) govern your use of ZeetaX Publication services, website/app, and products. By accessing our services, you agree to these Terms.
         </p>
 
         <h2 className="text-black font-general-sans text-xl md:text-2xl font-medium mb-3">1. Use of Materials</h2>
