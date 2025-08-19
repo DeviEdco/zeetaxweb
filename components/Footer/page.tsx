@@ -37,6 +37,9 @@ const Footer = () => {
               <Link href="/terms-and-conditions" className="text-black font-general-sans cursor-pointer text-xs md:text-[1rem] font-medium leading-[1.5] tracking-[-0.03rem] md:tracking-[-0.06rem]">
                 Terms & Condition
               </Link>
+              <Link href="/contact" className="text-black font-general-sans cursor-pointer text-xs md:text-[1rem] font-medium leading-[1.5] tracking-[-0.03rem] md:tracking-[-0.06rem]">
+                Contact Us
+              </Link>
             </div>
           </div>
           <div className="flex flex-col items-start gap-2.5 md:gap-4">
